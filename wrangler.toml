@@ -1,0 +1,5 @@
+name = "sourdough-hydration-calculator"
+compatibility_date = "2026-09-27"
+
+[assets]
+directory = "./public"
